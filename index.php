@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-    <!-- Preloader Starts -->
+    <!-- Preloader  and Starts -->
     <div class="preloader">
         <div class="spinner"></div>
     </div>
